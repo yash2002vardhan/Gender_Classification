@@ -42,5 +42,6 @@ The model was trained on a diverse dataset of over 1000 images, containing equal
 ## Performance
 
 Thanks to the carefully curated dataset and the well-designed 11-layer CNN architecture, the model exhibits exceptional performance, achieving an impressive accuracy rate of 95%. It can swiftly and accurately identify gender from real-time video feeds
+
 ---
 Feel free to customize and expand the above README according to your project's specifics. Make sure to include relevant details about the implementation, data preprocessing, model architecture, and any other significant aspects.
