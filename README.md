@@ -1,4 +1,4 @@
-# Real-Time Gender Detection Project
+# Real-Time Gender Detection
 
 This project implements a real-time gender detection system using an 11-layer Convolutional Neural Network (CNN) architecture, seamlessly integrated with OpenCV for live detection. The exceptional performance of the model is attributed to its training with a diverse dataset consisting of over 1000 images, resulting in an impressive accuracy rate of 95%.
 
